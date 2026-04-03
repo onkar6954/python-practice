@@ -6,3 +6,5 @@ else:
     for i in range(0,num+1):
         count+=i
     print(count)
+
+print("End")
