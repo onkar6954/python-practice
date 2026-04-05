@@ -20,7 +20,7 @@ I am currently learning Python from scratch and using this repository to:
 
 * ✔ Build strong problem-solving skills
 * ✔ Maintain daily consistency
-* ✔ Prepare for Data Science & Development
+* ✔ Prepare for Data Science & Analytics
 * ✔ Write clean and readable code
 
 ---
