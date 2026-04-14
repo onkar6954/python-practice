@@ -2,6 +2,6 @@
 
 import pandas as pd
 
-df = pd.read_json('python-practice\Practice Day 11 pandas\Data Loading (FOUNDATION)\sample_Data.json')
+df = pd.read_json('python-practice\Practice Day 11 pandas\sample_Data.json')
 
 print(pd.DataFrame(df.columns))
