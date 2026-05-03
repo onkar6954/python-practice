@@ -65,3 +65,10 @@
 
 # print(root1)
 # print(root2)
+
+""" Write a Python program to swap two variables without temp variable."""
+a=6
+b=7
+a,b = b,a
+print("a=",a)
+print("b=",b)
