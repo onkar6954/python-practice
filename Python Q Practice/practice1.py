@@ -14,3 +14,9 @@
 #   print("Cannot divide by zero")
 # else:
 #   print(num1/num2)
+
+""" Write a Python program to find the area of a triangle."""
+# base = int(input("Enter base: "))
+# height = int(input("Enter height: "))
+# areaOfTriangle = (1/2)*base*height
+# print(f"Area of Triangle with base={base} and height={height} is {areaOfTriangle}")
