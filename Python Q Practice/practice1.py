@@ -50,3 +50,18 @@
 
 # cal = calendar.month(year,month)
 # print(cal)
+
+""" Write a Python program to solve quadratic equation."""
+# import cmath
+
+# a = float(input("Enter value 'a' Note: a must be greater then 0: "))
+# b = float(input("Enter value 'b': "))
+# c = float(input("Enter value 'b': "))
+
+# d = (b**2)-(4*a*c)
+
+# root1 = (-b+cmath.sqrt(d))/(2*a)
+# root2 = (-b-cmath.sqrt(d))/(2*a)
+
+# print(root1)
+# print(root2)
