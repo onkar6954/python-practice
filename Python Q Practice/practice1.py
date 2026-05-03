@@ -31,3 +31,8 @@
 # var2 = temp
 # print("var1 =",var1)
 # print("var2 =",var2)
+
+""" Write a Python program to convert kilometers to miles."""
+# km = int(input("Enter kilometers: "))
+# miles = km * 0.621371
+# print(f"{km}km in miles is {miles}miles")
