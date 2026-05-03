@@ -36,3 +36,8 @@
 # km = int(input("Enter kilometers: "))
 # miles = km * 0.621371
 # print(f"{km}km in miles is {miles}miles")
+
+""" Write a Python program to convert Celsius to Fahrenheit"""
+# c = int(input("Enter temp in celsius: "))
+# f = int(c*(9/5)+32)
+# print(f"{c}°C in fahrenheit is {f}°f")
