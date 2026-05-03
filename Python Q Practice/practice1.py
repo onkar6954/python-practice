@@ -81,3 +81,10 @@
 #   print("Entered number is Zero")
 # else:
 #   print("Entered number is Negative")
+
+""" Write a Python Program to Check if a Number is Odd or Even."""
+# num = int(input("Enter a number: "))
+# if(num%2==0):
+#   print("Entered number is Even")
+# else:
+#   print("Entered number is Odd")
