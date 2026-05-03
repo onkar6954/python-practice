@@ -67,8 +67,17 @@
 # print(root2)
 
 """ Write a Python program to swap two variables without temp variable."""
-a=6
-b=7
-a,b = b,a
-print("a=",a)
-print("b=",b)
+# a=6
+# b=7
+# a,b = b,a
+# print("a=",a)
+# print("b=",b)
+
+""" Write a Python Program to Check if a Number is Positive, Negative or Zero."""
+# num = int(input("Enter a number: "))
+# if(num>0):
+#   print("Entered number is Positive")
+# elif(num==0):
+#   print("Entered number is Zero")
+# else:
+#   print("Entered number is Negative")
