@@ -20,3 +20,14 @@
 # height = int(input("Enter height: "))
 # areaOfTriangle = (1/2)*base*height
 # print(f"Area of Triangle with base={base} and height={height} is {areaOfTriangle}")
+
+""" Write a Python program to swap two variables."""
+# var1 = input("Enter first variable: ")
+# var2 = input("Enter second variable: ")
+# print("var1 =",var1)
+# print("var2 =",var2)
+# temp = var1
+# var1 = var2
+# var2 = temp
+# print("var1 =",var1)
+# print("var2 =",var2)
