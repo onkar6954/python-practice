@@ -41,3 +41,12 @@
 # c = int(input("Enter temp in celsius: "))
 # f = int(c*(9/5)+32)
 # print(f"{c}°C in fahrenheit is {f}°f")
+
+""" Write a Python program to display calendar."""
+# import calendar
+
+# year = int(input("Enter year: "))
+# month = int(input("Enter month: "))
+
+# cal = calendar.month(year,month)
+# print(cal)
